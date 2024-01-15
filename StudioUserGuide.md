@@ -19,12 +19,10 @@ If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Se
    1. Plug the left monitor into the Monitor A (L) slot.
    2. Plug the right monitor into the Monitor B (R) slot.
 
-         
-    Microphone Connection 
-        IMPORTANT: Disengage phantom power on the Big Knob and the Drawmer before connecting condenser microphones. Failing to do so may result in a pop that could damage the microphone. 
-        Connect the microphone to the Drawner's Mic Input. 
-
-        Connect the Drawmer's output to Microphone 1 on the Big Knob. 
+3. Microphone Connection
+   1. **IMPORTANT**: Disengage phantom power on the Big Knob and the Drawmer before connecting condenser microphones. Failing to do so may result in a pop that could damage the microphone.
+   2. Connect the microphone to the Drawner's Mic Input.
+   3. Connect the Drawmer's output to Microphone 1 on the Big Knob. 
 
          
     Optional External Stereo Connection 
