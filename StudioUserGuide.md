@@ -12,15 +12,15 @@ If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Se
 
 ### Input/Output Connections 
 
-1. Computer Connection
-   a. Connect the computer to the USB port located on the back panel of the Big Knob. 
-2. Monitor Connection
-   a. Plug the left monitor into the Monitor A (L) slot.
-   b. Plug the right monitor into the Monitor B (R) slot.
-3. Microphone Connection
-   a. **IMPORTANT**: Disengage phantom power on the Big Knob and the Drawmer before connecting condenser microphones. Failing to do so may result in a pop that could damage the microphone.
-   b. Connect the microphone to the Drawner's Mic Input.
-   c. Connect the Drawmer's output to Microphone 1 on the Big Knob. 
+1. Computer Connection <br> 
+   a. Connect the computer to the USB port located on the back panel of the Big Knob. <br>
+2. Monitor Connection <br>
+   a. Plug the left monitor into the Monitor A (L) slot. <br>
+   b. Plug the right monitor into the Monitor B (R) slot. <br> 
+3. Microphone Connection <br> 
+   a. **IMPORTANT**: Disengage phantom power on the Big Knob and the Drawmer before connecting condenser microphones. Failing to do so may result in a pop that could damage the microphone. <br> 
+   b. Connect the microphone to the Drawner's Mic Input. <br> 
+   c. Connect the Drawmer's output to Microphone 1 on the Big Knob. <br> 
 
          
     Optional External Stereo Connection 
