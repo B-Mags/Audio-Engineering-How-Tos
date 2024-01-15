@@ -14,7 +14,7 @@ If you are new to this process, follow this guide sequentially.
  3. Set the bit depth to 16-bit. 
 
 
-![Session Setup Image](https://github.com/B-Mags/How-To-Docs/assets/blob/main/NewTrack.png)
+![Session Setup Image](https://github.com/B-Mags/How-To-Docs/blob/main/assets/SessionSetup.png)
 
 ## 2. Importing Your Audio
 
@@ -25,7 +25,7 @@ If you are new to this process, follow this guide sequentially.
 3. Drag the audio from the clip bin into your new track. 
 4. Tab through the tracks to make sure the chapters are in order on the track.
 
-![New Track Image](https://github.com/B-Mags/How-To-Docs/blob/main/NewTrack.png)
+![New Track Image](https://github.com/B-Mags/How-To-Docs/blob/main/assets/NewTrack.png)
 
 ## 3. Check File Durations
 
@@ -42,7 +42,7 @@ If a chapter is longer than 60 minutes, find logical cutting points in the chapt
 1. Make sure the intro is appended to the first chapter.
    a. There should be three seconds of room tone between the end of the intro and the beginning of the first chapter.
 
-![Create First File](https://github.com/B-Mags/How-To-Docs/blob/main/FirstFile.png)
+![Create First File](https://github.com/B-Mags/How-To-Docs/blob/main/assets/FirstFile.png)
 
 ### Check the gaps and create the rest of the files. 
 
