@@ -1,4 +1,4 @@
-# Studio User Guide 
+#  Studio User Guide 
 
 ## About This Guide
 
