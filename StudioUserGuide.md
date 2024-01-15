@@ -8,7 +8,7 @@ If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Se
 
 ## Hardware Setup 
 
-> **Note Before Starting**: Follow the steps sequentially. It may be beneficial to check your settings and hookups against the Quick Settings Guide and the Owner's Manual Hookup Diagrams.
+> _**Note Before Starting**: Follow the steps sequentially. It may be beneficial to check your settings and hookups against the Quick Settings Guide and the Owner's Manual Hookup Diagrams._
 
 ### Input/Output Connections 
 
