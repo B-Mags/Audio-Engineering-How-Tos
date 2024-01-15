@@ -122,20 +122,20 @@ If any file in the audiobook fails to conform to this naming convention, the tit
 **Please Note**: To use this method, your files must be named sequentially before using the Auto Rename tool, otherwise your files will be named out of order. Always double check that your files were named correctly after using the Auto Rename tool. 
 
 1. Open the Auto Rename Tool.
-    a. Select all files in the track.
-    b. Click the down arrow in the top right corner of the Clips Bin.
-    c. Select “Auto Rename.”
+    <br />a. Select all files in the track.
+    <br />b. Click the down arrow in the top right corner of the Clips Bin.
+    <br />c. Select “Auto Rename.”
 2. Set the naming parameters.
 3. Click OK.
 4. Select all files.
 5. To commit the name change to the disk, use the Rename tool.
-    a. Select all files in the track.
-    b. Click the down arrow in the top-right corner of the Clips Bin.
-    c. Select “Rename.”
+    <br />a. Select all files in the track.
+    <br />b. Click the down arrow in the top-right corner of the Clips Bin.
+    <br />c. Select “Rename.”
 6. In the dialog that pops up, ensure that “name clip and disk file” is selected.
 7. Click OK for each file.
 8. Finally, name your sample file TitleOfBookAUT_Sample.
-     a. In our example, the sample would be named SecretLifeOfLilianVelvetMOR_Sample.
+    <br /> a. In our example, the sample would be named SecretLifeOfLilianVelvetMOR_Sample.
 
 
 
