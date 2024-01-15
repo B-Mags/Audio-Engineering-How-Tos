@@ -2,7 +2,7 @@
 
 ## Take it step-by-step
 
-The following guide illustrates how to master an audiobook to Recorded Books specifications. All deliverables should meet these specifications. 
+The following guide illustrates how to master an audiobook to ACX specifications. All deliverables should meet these specifications. 
 
 If you are new to this process, follow this guide sequentially. 
 
