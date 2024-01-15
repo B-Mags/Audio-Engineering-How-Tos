@@ -50,3 +50,12 @@ If a chapter is longer than 60 minutes, find logical cutting points in the chapt
 2. Make sure there is a hlf a second of room tone at the beginning of each chapter. 
 
 ![Create Chapter Gaps](https://github.com/B-Mags/How-To-Docs/blob/main/assets/ChapterGaps.png)
+
+### Create the last file. 
+
+1. Make sure this file begins with “The End.
+2. Make sure the last file contains only the outro credits.
+3. Include half a second of room tone at the start of the last file.
+4. Include three seconds of room tone at the end of the last file.  
+
+![Create Last File](https://github.com/B-Mags/How-To-Docs/blob/main/assets/LastFile.png)
