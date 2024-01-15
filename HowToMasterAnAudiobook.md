@@ -20,13 +20,12 @@ If you are new to this process, follow this guide sequentially.
 
 ### Drag-and-drop makes importing easy. 
 1. Create a mono track in your Pro Tools session.
-
-![New Track Image](https://github.com/B-Mags/How-To-Docs/blob/main/NewTrack.png)
-   
 2. Drag your audio into the clip bins.  
     a. If your audio does not conform to the session settings, Pro Tools will automatically convert the audio. When this process occurs, the new audio is automatically stored in the session's "Audio" folder. 
 3. Drag the audio from the clip bin into your new track. 
 4. Tab through the tracks to make sure the chapters are in order on the track.
+
+![New Track Image](https://github.com/B-Mags/How-To-Docs/blob/main/NewTrack.png)
 
 ## 3. Check File Durations
 
@@ -36,4 +35,18 @@ If a chapter is longer than 60 minutes, find logical cutting points in the chapt
 
 <br />
 
+## 4. File Creation
 
+### Create the first file. 
+
+1. Make sure the intro is appended to the first chapter.
+   a. There should be three seconds of room tone between the end of the intro and the beginning of the first chapter.
+
+![Create First File](https://github.com/B-Mags/How-To-Docs/blob/main/FirstFile.png)
+
+### Check the gaps and create the rest of the files. 
+
+1. Make sure there are three seconds of room tone at the end of each chapter.
+2. Make sure there is a hlf a second of room tone at the beginning of each chapter. 
+
+![Create Chapter Gaps](https://github.com/B-Mags/How-To-Docs/blob/main/ChapterGaps.png)
