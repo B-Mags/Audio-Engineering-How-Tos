@@ -1,1 +1,1 @@
-This repo contains techniques for recording and producing audiobooks. 
+📚 This repo contains techniques for recording and producing audiobooks. 
