@@ -1,4 +1,4 @@
-#How To Master An Audiobook
+# How To Master An Audiobook
 
 ## Take it step-by-step
 
@@ -19,7 +19,10 @@ If you are new to this process, follow this guide sequentially.
 ## 2. Importing Your Audio
 
 ### Importing
-1. Create a mono track in your Pro Tools session. 
+1. Create a mono track in your Pro Tools session.
+
+![New Track Image](https://github.com/B-Mags/How-To-Docs/blob/main/NewTrack.png)
+   
 2. Drag your audio into the clip bins.  
     a. If your audio does not conform to the session settings, Pro Tools will automatically convert the audio. When this process occurs, the new audio is automatically stored in the session's "Audio" folder. 
 3. Drag the audio from the clip bin into your new track. 
