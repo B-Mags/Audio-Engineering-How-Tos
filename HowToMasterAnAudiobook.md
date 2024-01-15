@@ -18,7 +18,7 @@ If you are new to this process, follow this guide sequentially.
 
 ## 2. Importing Your Audio
 
-### Importing
+### Drag-and-drop makes importing easy. 
 1. Create a mono track in your Pro Tools session.
 
 ![New Track Image](https://github.com/B-Mags/How-To-Docs/blob/main/NewTrack.png)
@@ -26,4 +26,14 @@ If you are new to this process, follow this guide sequentially.
 2. Drag your audio into the clip bins.  
     a. If your audio does not conform to the session settings, Pro Tools will automatically convert the audio. When this process occurs, the new audio is automatically stored in the session's "Audio" folder. 
 3. Drag the audio from the clip bin into your new track. 
-4. Tab through the tracks to make sure the chapters are in order on the track
+4. Tab through the tracks to make sure the chapters are in order on the track.
+
+## 3. Check File Durations
+
+### Make sure each file is 60 minutes or fewer. 
+
+If a chapter is longer than 60 minutes, find logical cutting points in the chapter to create multiple files. Each new file must be fewer than 60 minutes. 
+
+<br />
+
+
