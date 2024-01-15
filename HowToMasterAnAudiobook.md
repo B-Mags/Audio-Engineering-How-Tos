@@ -49,4 +49,4 @@ If a chapter is longer than 60 minutes, find logical cutting points in the chapt
 1. Make sure there are three seconds of room tone at the end of each chapter.
 2. Make sure there is a hlf a second of room tone at the beginning of each chapter. 
 
-![Create Chapter Gaps](https://github.com/B-Mags/How-To-Docs/blob/main/ChapterGaps.png)
+![Create Chapter Gaps](https://github.com/B-Mags/How-To-Docs/blob/main/assets/ChapterGaps.png)
