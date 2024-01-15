@@ -14,7 +14,7 @@ If you are new to this process, follow this guide sequentially.
  3. Set the bit depth to 16-bit. 
 
 
-![Session Setup Image](https://github.com/B-Mags/How-To-Docs/blob/main/NewTrack.png)
+![Session Setup Image](https://github.com/B-Mags/How-To-Docs/assets/blob/main/NewTrack.png)
 
 ## 2. Importing Your Audio
 
