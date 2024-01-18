@@ -6,7 +6,7 @@ If you are setting up the studio for the first time, or if you need step-by-step
 
 If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Settings (Reference Sheet)." There you will find all of the settings without the walkthrough. 
 
-[Test](#BigKnobSettings)
+[Test](https://github.com/B-Mags/Audio-Engineering-How-Tos/blob/main/RecordingStudioUserGuide.md#2-big-knob-settings)
 
 ## 1. Hardware Setup 
 
