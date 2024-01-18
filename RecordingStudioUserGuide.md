@@ -35,7 +35,7 @@ If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Se
 
 ### Settings
 
-### 1. Onyx Mic Preamps
+#### 1. Onyx Mic Preamps
 
 1. Depress the +48V button to engage the Big Knob's phantom power.
 2. Depress the ½ button to allow audio from microphone to come through studio monitors.
@@ -45,12 +45,12 @@ If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Se
 5. Move to the back plate of the Big Knob and locate the REC SRC SELECT button in the USB section. This button should be depressed, which will select the ½ input as the recording source within the computer's DAW. <br>
 
 
-### 2. Playback From Computer Input 
+#### 2. Playback From Computer Input 
 
 1. Depress the USB button to allow audio from the computer to come through the studio monitors.
    - This button should be illuminated green at all times.
 
-### 3. Studio Monitors
+#### 3. Studio Monitors
 
 1. Depress both A and B buttons in the Monitor Select section of the board.
    - The gain for each monitor is controlled by its corresponding TRIM knob located above the A and B buttons.
@@ -59,7 +59,7 @@ If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Se
 3. To mute the studio monitors, depress the Cut button located just below the big knob.
 4. **Optional**: To drop the sound coming through the monitors by 20dB, depress the DIM button located just below the big knob. For our purposes, this can typically remain off. <br> 
 
-### 4. Headphone Monitoring
+#### 4. Headphone Monitoring
 
 1. Depress the 2TR/CUE Button located just above the Phones 1 and Phones 2 knobs.
    - This will allow you to monitor all signals, including the talkback microphone.
