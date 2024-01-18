@@ -11,7 +11,7 @@ If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Se
 [1. Hardware Setup](https://github.com/B-Mags/Audio-Engineering-How-Tos/blob/main/RecordingStudioUserGuide.md#1-hardware-setup) <br>
 [2. Big Knob Settings](https://github.com/B-Mags/Audio-Engineering-How-Tos/blob/main/RecordingStudioUserGuide.md#2-big-knob-settings) <br>
 [3. Pro Tools Walkthrough](https://github.com/B-Mags/Audio-Engineering-How-Tos/blob/main/RecordingStudioUserGuide.md#3-pro-tools-walkthrough) <br>
-[4. Hardware Quick Settings]()
+[4. Hardware Quick Settings](https://github.com/B-Mags/Audio-Engineering-How-Tos/blob/main/RecordingStudioUserGuide.md#4-hardware-quick-settings) <br>
 
 ## 1. Hardware Setup 
 
