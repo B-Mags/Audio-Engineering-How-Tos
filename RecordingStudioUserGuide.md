@@ -29,7 +29,7 @@ If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Se
 4. Optional External Stereo Connection <br>
    a. Connect external source, such as an iPhone or iPad, to the Stereo ¾ 3.5mm jack located on the front panel of the Big Knob. 
 
-## 2. <a name="BigKnobSettings">Big Knob Settings</a>
+## 2. Big Knob Settings
 
 > _**Note Before Starting**: To monitor changes, raise the Big Knob's big knob a quarter turn._ <br>  
 
@@ -65,3 +65,19 @@ If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Se
    - This will allow you to monitor all signals, including the talkback microphone.
 2. Blend the input and playback signals by turning the Direct Monitoring knob.
    - **IMPORTANT NOTE**: Confusingly, the Direct Monitoring knob does not affect the talkback level despite both having the same “cue” label. Please use the Talkback Volume knob to adjust the volume of the talkback button, and, as mentioned above, ensure that the 2TR/CUE button is depressed to enable the talkback mic.
+
+## 3. Pro Tools Walkthrough
+
+1. Set the playback engine
+   - Navigate to Setup > Playback Engine.
+   - In the window that opens, open the dropdown menu next to Playback Engine, and select BIG KNOB.
+2. Set the I/O
+   - Navigate to Setup > I/O.
+   - Navigate to the output tab.
+   - Select and delete all current output paths.
+   - Click the default button to create a new output path.
+   - Repeat these steps in the input tab.
+3. Create a New Session
+4. Create a New Track
+   - For the track’s input, select Analog 1 (mono).
+   - For the track’s output, select Output 1-2 —> Analog 1-2.
