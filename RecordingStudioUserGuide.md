@@ -1,6 +1,6 @@
 #  Studio User Guide 
 
-## About This Guide
+### About This Guide
 
 If you are setting up the studio for the first time, or if you need step-by-step guidance, work your way sequentially through the dropdown steps below. 
 
@@ -35,36 +35,25 @@ If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Se
 
 ### Settings
 
- 
+1. Onyx Mic Preamps <br>
+   a. Depress the +48V button to engage the Big Knob's phantom power. <br>
+   b. Depress the ½ button to allow audio from microphone to come through studio monitors. <br>
+   - This button should be illuminated green at all times. <br> 
+   c. Disengage Stereo Pan to ensure recorded audio is recorded to both left and right channels. <br>
+   d. Raise the 1(L) knob to a suitable playback volume. <br>
+   e. Move to the back plate of the Big Knob and locate the REC SRC SELECT button in the USB section. This button should be depressed, which will select the ½ input as the recording source within the computer's DAW. <br>
+3. Playback From Computer Input <br>
+   a. Depress the USB button to allow audio from the computer to come through the studio monitors. (This button should be illuminated green at all times.) <br> 
+4. Studio Monitors <br>
+   a. Depress both A and B buttons in the Monitor Select section of the board. <br>
+   - The gain for each monitor is controlled by its corresponding TRIM knob located above the A and B buttons. <br>
+   b. Depress the Mono button located just below the Big Knob. <br>
+   - This button should be illuminated green at all times. <br>
+   c. To mute the studio monitors, depress the Cut button located just below the big knob. <br>
+   d. Optional: To drop the sound coming through the monitors by 20dB, depress the DIM button located just below the big knob. For our purposes, this can typically remain off. <br> 
 
-    Onyx Mic Preamps 
-        Depress the +48V button to engage the Big Knob's phantom power. 
-        Depress the ½ button to allow audio from microphone to come through studio monitors. 
-            This button should be illuminated green at all times. 
-        Disengage Stereo Pan to ensure recorded audio is recorded to both left and right channels. 
-        Raise the 1(L) knob to a suitable playback volume. 
-
-        Move to the back plate of the Big Knob and locate the REC SRC SELECT button in the USB section. This button should be depressed, which will select the ½ input as the recording source within the computer's DAW. 
-
-         
-    Playback From Computer Input 
-        Depress the USB button to allow audio from the computer to come through the studio monitors. 
-
-            This button should be illuminated green at all times. 
-
-             
-    Studio Monitors 
-        Depress both A and B buttons in the Monitor Select section of the board. 
-            The gain for each monitor is controlled by its corresponding TRIM knob located above the A and B buttons. 
-        Depress the Mono button located just below the Big Knob. 
-            This button should be illuminated green at all times. 
-        To mute the studio monitors, depress the Cut button located just below the big knob. 
-
-        Optional: To drop the sound coming through the monitors by 20dB, depress the DIM button located just below the big knob. For our purposes, this can typically remain off. 
-
-         
-    Headphone Monitoring 
-        Depress the 2TR/CUE Button located just above the Phones 1 and Phones 2 knobs. 
-            This will allow you to monitor all signals, including the talkback microphone. 
-        Blend the input and playback signals by turning the Direct Monitoring knob. 
-            IMPORTANT NOTE: Confusingly, the Direct Monitoring knob does not affect the talkback level despite both having the same “cue” label. Please use the Talkback Volume knob to adjust the volume of the talkback button, and, as mentioned above, ensure that the 2TR/CUE button is depressed to enable the talkback mic. 
+4. Headphone Monitoring <br>
+a. Depress the 2TR/CUE Button located just above the Phones 1 and Phones 2 knobs. <br> 
+   - This will allow you to monitor all signals, including the talkback microphone. <br>
+b. Blend the input and playback signals by turning the Direct Monitoring knob. <br>
+   - IMPORTANT NOTE: Confusingly, the Direct Monitoring knob does not affect the talkback level despite both having the same “cue” label. Please use the Talkback Volume knob to adjust the volume of the talkback button, and, as mentioned above, ensure that the 2TR/CUE button is depressed to enable the talkback mic. <br>
