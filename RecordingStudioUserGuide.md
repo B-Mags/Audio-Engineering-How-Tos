@@ -8,8 +8,8 @@ If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Se
 
 # Table of Contents 
 
-[1. Harward Setup] (https://github.com/B-Mags/Audio-Engineering-How-Tos/blob/main/RecordingStudioUserGuide.md#1-hardware-setup)
-[2. Big Knob Settings](https://github.com/B-Mags/Audio-Engineering-How-Tos/blob/main/RecordingStudioUserGuide.md#2-big-knob-settings)
+[1. Hardware Setup](https://github.com/B-Mags/Audio-Engineering-How-Tos/blob/main/RecordingStudioUserGuide.md#1-hardware-setup) <br>
+[2. Big Knob Settings](https://github.com/B-Mags/Audio-Engineering-How-Tos/blob/main/RecordingStudioUserGuide.md#2-big-knob-settings) <br>
 
 ## 1. Hardware Setup 
 
