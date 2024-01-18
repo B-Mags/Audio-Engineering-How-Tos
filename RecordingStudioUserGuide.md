@@ -84,24 +84,45 @@ If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Se
   
 ## 4. Hardware Quick Settings 
 
-| Section | Setting Name | Set To |
-|---|---|---|
-| **Onyx Mic Preamps** | +48 Button  | Always Released |
-|. | Stereo Pan Button | Always Released |
-|. | 1/2 Input | Always Depressed | 
-|. | 1(L) Knob | Turned to a suitable level |
-| **2-Track Source Select** | 2(R) Knob (if using second mic) | Turned to a suitable level |
-|. | 3/4 Button | Depressed if using external source | 
-|. | 3/4 Trim Knob | Turned to a suitable level | 
-|. | USB Button | Always Depressed | 
-| **Monitor Select** | A Button | Always Depressed | 
-|. | B Button | Always Depressed | 
-|. | A Trim Knob | Turned to a suitable level | 
-|. | B Trim Knob | Turned to a suitable level | 
-| **Big Knob Selection** | Mono | Always Depressed | 
-|. | Mute | Depress if muting monitors | 
-| **Headphone Monitoring** | Direct Monitoring Knob | Blend input and playback signals to taste--knob will likely be mid-range. | 
-|. | Phones 1 Knob | Turned to suitable level | 
-|. | Phones 2 Knob | Turned to suitable level |
-|. | 2TR/CUE Button | Always Depressed |
-| **USB (Back Panel)** | REC SRC SELECT | Always Depressed |
+### Onyx Mic Preamps 
+| Setting Name | Set To |
+|---|---|
+| +48 Button  | Always Released |
+| Stereo Pan Button | Always Released |
+| 1/2 Input | Always Depressed | 
+| 1(L) Knob | Turned to a suitable level |
+
+### 2-Track Source Select 
+| Setting Name | Set To |
+|---|---|
+| 2(R) Knob (if using second mic) | Turned to a suitable level |
+| 3/4 Button | Depressed if using external source | 
+| 3/4 Trim Knob | Turned to a suitable level | 
+| USB Button | Always Depressed | 
+
+### Monitor Select
+| Setting Name | Set To |
+|---|---|
+| A Button | Always Depressed | 
+| B Button | Always Depressed | 
+| A Trim Knob | Turned to a suitable level | 
+| B Trim Knob | Turned to a suitable level | 
+
+### Big Knob Selection
+| Setting Name | Set To |
+|---|---|
+| Mono | Always Depressed | 
+| Mute | Depress if muting monitors | 
+
+### Headphone Monitoring
+| Setting Name | Set To |
+|---|---|
+| Direct Monitoring Knob | Blend input and playback signals to taste--knob will likely be mid-range. | 
+| Phones 1 Knob | Turned to suitable level | 
+| Phones 2 Knob | Turned to suitable level |
+| 2TR/CUE Button | Always Depressed |
+
+### USB (Back Panel)
+| Setting Name | Set To |
+|---|---|
+| REC SRC SELECT | Always Depressed |
