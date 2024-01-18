@@ -35,16 +35,19 @@ If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Se
 
 ### Settings
 
-1. Onyx Mic Preamps <br>
-   a. Depress the +48V button to engage the Big Knob's phantom power. <br>
-   b. Depress the ½ button to allow audio from microphone to come through studio monitors. <br>
-   - This button should be illuminated green at all times. <br> 
-   c. Disengage Stereo Pan to ensure recorded audio is recorded to both left and right channels. <br>
-   d. Raise the 1(L) knob to a suitable playback volume. <br>
-   e. Move to the back plate of the Big Knob and locate the REC SRC SELECT button in the USB section. This button should be depressed, which will select the ½ input as the recording source within the computer's DAW. <br>
-3. Playback From Computer Input <br>
+### 1. Onyx Mic Preamps <br>
+
+1. Depress the +48V button to engage the Big Knob's phantom power.
+2. Depress the ½ button to allow audio from microphone to come through studio monitors.
+    - This button should be illuminated green at all times. 
+3. Disengage Stereo Pan to ensure recorded audio is recorded to both left and right channels.
+4. Raise the 1(L) knob to a suitable playback volume.
+5. Move to the back plate of the Big Knob and locate the REC SRC SELECT button in the USB section. This button should be depressed, which will select the ½ input as the recording source within the computer's DAW. <br>
+
+
+### 2. Playback From Computer Input <br>
    a. Depress the USB button to allow audio from the computer to come through the studio monitors. (This button should be illuminated green at all times.) <br> 
-4. Studio Monitors <br>
+7. Studio Monitors <br>
    a. Depress both A and B buttons in the Monitor Select section of the board. <br>
    - The gain for each monitor is controlled by its corresponding TRIM knob located above the A and B buttons. <br>
    b. Depress the Mono button located just below the Big Knob. <br>
