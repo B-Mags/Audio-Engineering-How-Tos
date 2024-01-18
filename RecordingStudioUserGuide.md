@@ -81,3 +81,10 @@ If you don't need a walkthrough, feel free to skip ahead to “Hardware Quick Se
 4. Create a New Track
    - For the track’s input, select Analog 1 (mono).
    - For the track’s output, select Output 1-2 —> Analog 1-2.
+  
+## 4. Hardware Quick Settings 
+
+| Section | Setting Name | Set To |
+|---|---|---|
+| **Onyx Mic Preamps** | +48 Button  | Always Released |
+| | | |
